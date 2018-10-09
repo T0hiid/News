@@ -11,6 +11,8 @@ namespace News.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            int a;
+            int b;
             return View();
         }
     }
